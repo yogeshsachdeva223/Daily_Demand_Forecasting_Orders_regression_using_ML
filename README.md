@@ -1,0 +1,2 @@
+# Daily_Demand_Forecasting_Orders_regression_using_ML
+Regression Analysis on Daily_Demand_Forecasting_Orders data dataset using ML Linear Regression algorithm
